@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 change in second.txt
+=======
+edited on github online
+>>>>>>> 42fad6506c2466721266186b6b6335455e285ae5
